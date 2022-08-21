@@ -1,0 +1,59 @@
+body { 
+    margin: 0; 
+
+}
+
+hr {
+    width: 50%;
+    margin-right: 50%
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Navbar--Container{
+    background-color: #F55A5A;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.Navbar--Img {
+    padding-right: 9px;
+}
+
+.Card {
+    padding: 5% 0 2% 5%;
+    display: inline-flex;
+    max-width: 800px;
+}
+
+.Card--Img {
+    width: 155px;
+    height: 198px;
+    margin-top: 1%;
+}
+
+.Card--Country {
+    font-size: 12px;
+}
+
+.Card--Date{
+    font-size: 12px;
+    font-weight: 600
+}
+
+.Card p {
+    width: 50%;
+    font-size: 12px;
+}
+
+.Card--Content {
+   padding-left: 3%; 
+
+}
+
