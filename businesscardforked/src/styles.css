@@ -1,0 +1,71 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #23252c;
+}
+
+.container {
+  margin: 20% auto 20% auto;
+  border-radius: 10px;
+  background-color: #1a1b21;
+  color: white;
+  max-width: 317px;
+  min-width: 317px;
+}
+
+.headSection img {
+  position: relative;
+  width: 317px;
+  left: -4%;
+}
+
+.upperSection {
+  text-align: center;
+}
+
+.upperSection h5 {
+  color: #f3bf99;
+  font-size: 14px;
+}
+
+.upperSection p {
+  font-size: 10px;
+}
+
+.btnLink {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 40%;
+}
+
+.middleSection {
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-top: 5%;
+}
+
+.middleSection p {
+  font-size: 10px;
+}
+
+.lowerSection {
+  position: relative;
+  background-color: #161619;
+  height: 70px;
+  margin-top: 10%;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 317px;
+  left: -4%;
+}
+
+.lowerSection img {
+  padding-left: 2%;
+  padding-right: 2%;
+}
